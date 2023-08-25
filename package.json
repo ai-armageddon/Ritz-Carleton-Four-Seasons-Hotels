@@ -1,0 +1,22 @@
+{
+  "name": "hotels-scraping",
+  "version": "1.6.9",
+  "description": "A simple Ritz-Carlton and Four Seasons hotels worldwide scraping tool.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "hotels",
+    "Ritz-Carlton",
+    "Four Seasons"
+  ],
+  "author": "ai_aramgeddon",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.1.0"
+  }
+}
