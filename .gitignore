@@ -1,1 +1,17 @@
 /node_modules
+
+.gitignore
+
+package.json
+package-lock.json
+
+*.js
+*.json
+*.txt
+*.sh
+
+/XML-files
+/local-html
+
+/JSON/backup
+/data-processing

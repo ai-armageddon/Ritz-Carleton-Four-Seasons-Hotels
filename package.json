@@ -17,6 +17,11 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "puppeteer": "^21.1.0"
+    "colors": "^1.4.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^21.1.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.0.1444"
   }
 }
